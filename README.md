@@ -2,4 +2,4 @@
 
 ### Hand Detection
 
-### Car Detection
+### Vehicle Detection
